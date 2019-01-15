@@ -28,7 +28,7 @@ Let's fly! [Cloud Me](./cloud-me/)
 ### Resource Me
 Resource Me is the definitive index of bare metal Kubernetes resources on the Internet. It includes guides, use cases, blog posts, and lists of implementations to use on your bare metal Kibernetes. It will remain always up to date.
 
-I want the best, always-up-to-date bare-metal Kubernetes resources! [Resource Me](./resource-me/)
+I want the best, always-up-to-date bare-metal Kubernetes resources! [Resource Me](./resource-me/resource-me.md)
 
 ## Sponsorship
 We would like to thank the good folks at [Packet](https://packet.com), the world's premier and easiest bare-metal cloud provider. Get true, dedicated bare-metal servers by the hour, managed via a true on-demand cloud API. 
