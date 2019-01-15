@@ -1,6 +1,6 @@
 # Full Metal Kube
 
-![Full Metal Kube](./images/full-metal-kube.png)
+![Full Metal Kube](./images/full-metal-kube-small.png)
 
 What is the best way to run [Kubernetes](https://kubernetes.io)? **Bare Metal!**
 
