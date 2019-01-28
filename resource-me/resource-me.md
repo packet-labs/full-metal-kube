@@ -12,3 +12,16 @@ bare metal Kubernetes. It will remain always up to date.
 MetalLB is a load-balancer implementation for bare metal Kubernetes 
 clusters, using standard routing protocols. https://metallb.universe.tf/
 
+### Kubespray
+
+https://github.com/Miouge1/kubespray/tree/packet
+
+
+### Terraform Packet BGP
+
+https://github.com/t0mk/packet-bgp-terraform/blob/master/main.tf
+
+### Terraform Packet Provider
+
+https://www.terraform.io/docs/providers/packet/
+
