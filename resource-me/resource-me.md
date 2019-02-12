@@ -14,15 +14,26 @@ clusters, using standard routing protocols.
 
 * https://metallb.universe.tf/
 
-### Kubespray
+### Kubespray with Packet support
 
 KubeSpray is a community project for deploying Kubernetes clusters on-premise 
 or in the cloud. The project is based on Ansible playbooks and is covered by 
 the Apache 2.0 license.
 
-* https://github.com/Miouge1/kubespray/tree/packet
+For general Kubespray information, please see:
+
 * https://github.com/kubernetes-sigs/kubespray
 * https://kubespray.io
+
+Within the Kubespray project is support for bare metal Kubernetes through hosted on Packet.
+This integration includes deployment of Packet bare metal infrastructure via Terraform,
+the building of the inventory file used by the Ansible playbooks of Kubespray, and the 
+setup of MetalLB for layer 3 load balancing via BGP.
+
+For Packet on Kubespray information, please see:
+
+https://github.com/kubernetes-sigs/kubespray/blob/master/contrib/terraform/packet/README.md
+
 
 ### Terraform Packet Provider
 
