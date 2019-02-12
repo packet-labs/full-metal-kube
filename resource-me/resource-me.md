@@ -14,7 +14,7 @@ clusters, using standard routing protocols.
 
 * https://metallb.universe.tf/
 
-### Kubespray with Packet support
+### Kubespray with Packet support for Bare Metal Kubernetes
 
 KubeSpray is a community project for deploying Kubernetes clusters on-premise 
 or in the cloud. The project is based on Ansible playbooks and is covered by 
@@ -33,4 +33,12 @@ setup of MetalLB for layer 3 load balancing via BGP.
 For Packet on Kubespray information, please see:
 
 https://github.com/kubernetes-sigs/kubespray/blob/master/contrib/terraform/packet/README.md
+
+The Packet Labs Kubespray repo contains alpha quality code that has not yet been
+merged into the main Kubespray repo. It is a collection of pull requests from Work In Progress
+development supporting Kubernetes on Bare Metal.
+
+https://github.com/packet-labs/kubespray
+
+
 
