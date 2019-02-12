@@ -1,7 +1,7 @@
 # Resource Me
 
 Resource Me is the definitive index of bare metal Kubernetes 
-resources on the Internet. It includes software, guides, use cases, 
+resources on the internet. It includes software, guides, use cases, 
 blog posts, and lists of implementations to use on your 
 bare metal Kubernetes. It will remain always up to date.
 
