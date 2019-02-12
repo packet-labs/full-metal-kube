@@ -34,17 +34,3 @@ For Packet on Kubespray information, please see:
 
 https://github.com/kubernetes-sigs/kubespray/blob/master/contrib/terraform/packet/README.md
 
-
-### Terraform Packet Provider
-
-Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.
-The Packet Terraform provider is used to interact with the resources 
-supported by Packet. 
-
-https://www.terraform.io/docs/providers/packet/
-
-### Terraform Packet BGP
-
-`packet-bgp-terraform` is a Terraform template for setting up BGP on Packet.
-
-* https://github.com/t0mk/packet-bgp-terraform/blob/master/main.tf
